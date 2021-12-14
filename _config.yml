@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gyeongwon Seol"
-  avatar           : "profile.jpg"
+  avatar           : # "profile.jpg"
   bio              :  # "Your biography for the left-hand sidebar"
   location         : "Jeonju, South Korea"
   employer         :
