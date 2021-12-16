@@ -51,25 +51,3 @@ HONORS
   * 기본적인 Remote UI를 추가하는 작업 수행
   * <a href="https://github.com/tjfruddnjs1/AR-Project" target="_blank">GitHub 링크</a>
   * <a href="http://www.lecturernews.com/news/articleView.html?idxno=55904" target="_blank">수상 링크</a>
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
